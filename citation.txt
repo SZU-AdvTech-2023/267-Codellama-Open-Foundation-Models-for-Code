@@ -1,0 +1,6 @@
+@article{REPO267,
+    author = "Roziere, Baptiste and Gehring, Jonas and Gloeckle, Fabian and Sootla, Sten and Gat, Itai and Tan, Xiaoqing Ellen and Adi, Yossi and Liu, Jingyu and Remez, Tal and Rapin, J{\'e}r{\'e}my and others",
+    journal = "arXiv preprint arXiv:2308.12950",
+    title = "{Codellama:Open Foundation Models for Code}",
+    year = "2023"
+}
